@@ -1,0 +1,9 @@
+C:\xampp\htdocs\consultores\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\xampp\htdocs\consultores\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\xampp\htdocs\consultores\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.csprojAssemblyReference.cache
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\xampp\htdocs\consultores\Dominio\obj\Debug\netstandard2.1\Dominio.pdb

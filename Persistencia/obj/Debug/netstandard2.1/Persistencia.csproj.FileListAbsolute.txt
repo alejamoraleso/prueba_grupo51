@@ -1,0 +1,12 @@
+C:\xampp\htdocs\consultores\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+C:\xampp\htdocs\consultores\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+C:\xampp\htdocs\consultores\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+C:\xampp\htdocs\consultores\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\xampp\htdocs\consultores\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+C:\xampp\htdocs\consultores\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb
